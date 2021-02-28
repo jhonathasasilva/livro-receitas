@@ -1,6 +1,5 @@
-# LIVRO DE RECEITAS #
+# LIVRO DE RECEITAS :book: #
 
 _Olá, bem vindo ao livro de receitas._
 
-	- Strogonoff de frango
-	- 	
+- Strogonoff de frango :chicken:

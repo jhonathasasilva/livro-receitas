@@ -1,6 +1,6 @@
-# RECEITA DO JANTAR #
+## RECEITA DO JANTAR ##
 
-** Pão **
+**Pão**
 _Queijo_
 _Requeijão_
-:chicken
+:stew:
