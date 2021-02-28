@@ -1,6 +1,6 @@
 # LIVRO DE RECEITAS #
 
-Olá, bem vindo ao livro de receitas.
+_Olá, bem vindo ao livro de receitas._
 
-	-	Strogonoff de frango
-	-	
+	- Strogonoff de frango
+	- 	
